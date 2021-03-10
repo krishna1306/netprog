@@ -1,2 +1,3 @@
 This is switch6 configuration
 added another line
+Added this to test remotes
